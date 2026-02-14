@@ -1,6 +1,6 @@
-# gocheck
+# GoCheck
 
-gocheck is a fast Go-based CLI for profiling datasets and running basic data-quality checks (row counts, missing values, type inference, and summary statistics) on CSV/Parquet files.
+GoCheck is a fast Go-based CLI for profiling datasets and running basic data-quality checks (row counts, missing values, type inference, and summary statistics) on CSV/Parquet files.
 
 ## Why This Project?
 
