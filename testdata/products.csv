@@ -1,0 +1,11 @@
+id,product,quantity,price,date
+1,Laptop,5,1299.99,2024-01-15
+2,Mouse,50,29.99,2024-01-16
+3,Keyboard,30,89.99,2024-01-17
+4,Monitor,15,449.99,2024-01-18
+5,Headphones,25,159.99,2024-01-19
+6,Webcam,20,79.99,2024-01-20
+7,USB Cable,100,9.99,2024-01-21
+8,Docking Station,10,299.99,2024-01-22
+9,Microphone,,199.99,2024-01-23
+10,Speaker,18,129.99,

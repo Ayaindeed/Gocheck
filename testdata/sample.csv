@@ -1,0 +1,11 @@
+name,age,salary,department,active
+Alice,28,75000.50,Engineering,true
+Bob,35,85000.00,Marketing,true
+Charlie,42,95000.75,Engineering,true
+Diana,,65000.00,Sales,false
+Eve,29,70000.00,,true
+Frank,31,80000.50,Engineering,
+George,45,105000.00,Marketing,true
+Hannah,33,,Engineering,true
+Ivan,38,90000.00,Sales,true
+Julia,26,60000.00,Marketing,false
