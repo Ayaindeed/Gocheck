@@ -118,7 +118,7 @@ Flags:
 
 Type inference uses an 80% threshold - if 80% of non-empty values match a type, the column is classified as that type.
 
-## Statistics Calculated 📊
+## Statistics Calculated 
 
 ### Numeric Columns
 - Minimum value
