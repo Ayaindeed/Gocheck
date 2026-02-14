@@ -102,7 +102,7 @@ Flags:
   -v, --verbose        Verbose output
 ```
 
-## Supported File Types 📁
+## Supported File Types 
 
 - **CSV** (`.csv`) - Co
 
@@ -137,7 +137,7 @@ Type inference uses an 80% threshold - if 80% of non-empty values match a type, 
 - Unique value count
 - Sample values
 
-## Project Structure 📂
+## Project Structure 
 
 ```
 gocheck/
@@ -157,7 +157,7 @@ gocheck/
 └── README.md                # This file
 ```
 
-## Development 🔧
+## Development 
 
 ### Running Te
 
@@ -209,16 +209,6 @@ Future enhancements planned:
 - [ ] Streaming mode for very large files
 - [ ] Schema comparison between datasets
 
-## Contributing
-
-Contributions welcome! Feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 MIT License - feel free to use this project for learning and fun!
@@ -234,6 +224,3 @@ This project is great for learning:
 - Working with Parquet files
 - Table formatting and output generation
 
-## Author
-
-Built by Ayaindeed
