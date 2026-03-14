@@ -197,17 +197,6 @@ GOOS=darwin GOARCH=amd64 go build -o gocheck
 - For very large files (>1GB), consider using smaller samples
 - Parquet files are generally faster to process than CSV
 
-## Roadmap
-
-Future enhancements planned:
-
-- [ ] Support for more file formats (JSON, Excel, SQL)
-- [ ] Outlier detection
-- [ ] Correlation analysis
-- [ ] Data validation rules
-- [ ] Export reports to HTML/PDF
-- [ ] Streaming mode for very large files
-- [ ] Schema comparison between datasets
 
 ## License
 
